@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 9058165b81d5ea6d1b7ed393e267d159
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6996145095795598241
+    second: Hydralisco_Melee_0
+  - first:
+      213: -3729952214891854994
+    second: Hydralisco_Melee_1
+  - first:
+      213: 1433430639052808111
+    second: Hydralisco_Melee_2
+  - first:
+      213: 3825654423952028430
+    second: Hydralisco_Melee_3
+  - first:
+      213: -7158234580021575382
+    second: Hydralisco_Melee_4
+  - first:
+      213: -3118807070436803992
+    second: Hydralisco_Melee_5
+  - first:
+      213: 5500403661065827141
+    second: Hydralisco_Melee_6
+  - first:
+      213: -3081993527221037282
+    second: Hydralisco_Melee_7
+  - first:
+      213: -788375758904621641
+    second: Hydralisco_Melee_8
+  - first:
+      213: 4286252960904283056
+    second: Hydralisco_Melee_9
+  - first:
+      213: 5862497049932461054
+    second: Hydralisco_Melee_10
+  - first:
+      213: 8597962006509197855
+    second: Hydralisco_Melee_11
+  - first:
+      213: 1309770975139813059
+    second: Hydralisco_Melee_12
+  - first:
+      213: -877739747644519729
+    second: Hydralisco_Melee_13
+  - first:
+      213: -4028144528740200817
+    second: Hydralisco_Melee_14
+  - first:
+      213: -5883407598728901042
+    second: Hydralisco_Melee_15
+  - first:
+      213: -8169872445154768603
+    second: Hydralisco_Melee_16
+  - first:
+      213: 3010429323268108124
+    second: Hydralisco_Melee_17
+  - first:
+      213: 3855597648374751256
+    second: Hydralisco_Melee_18
+  - first:
+      213: 7229986150542574308
+    second: Hydralisco_Melee_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hydralisco_Melee_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1208
+        width: 283
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c13004a13b8ee90800000000000000
+      internalID: -6996145095795598241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1208
+        width: 277
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e638032093c8c3cc0800000000000000
+      internalID: -3729952214891854994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_2
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1208
+        width: 279
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf57e2529194e310800000000000000
+      internalID: 1433430639052808111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_3
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1208
+        width: 282
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03ff0ded64771530800000000000000
+      internalID: 3825654423952028430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_4
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1208
+        width: 279
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2185ee4397d8ac90800000000000000
+      internalID: -7158234580021575382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 828
+        width: 289
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a33ab5e75c7b4d0800000000000000
+      internalID: -3118807070436803992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 828
+        width: 271
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433613ccfb555c40800000000000000
+      internalID: 5500403661065827141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_7
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 828
+        width: 252
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17dfe1573f8a35d0800000000000000
+      internalID: -3081993527221037282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_8
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 828
+        width: 250
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b506fc9c602f05f0800000000000000
+      internalID: -788375758904621641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_9
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 828
+        width: 257
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b38a20cb54db7b30800000000000000
+      internalID: 4286252960904283056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 426
+        width: 258
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3fffd8106cb5150800000000000000
+      internalID: 5862497049932461054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 426
+        width: 259
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a194614e8125770800000000000000
+      internalID: 8597962006509197855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_12
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 426
+        width: 258
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6535e23cd3d2210800000000000000
+      internalID: 1309770975139813059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_13
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 426
+        width: 255
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca48689954a1d3f0800000000000000
+      internalID: -877739747644519729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_14
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 426
+        width: 252
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ec184a4e72918c0800000000000000
+      internalID: -4028144528740200817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 26
+        width: 247
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e0ee8e5ffe95ea0800000000000000
+      internalID: -5883407598728901042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 26
+        width: 243
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5294c460c48ce9e80800000000000000
+      internalID: -8169872445154768603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 26
+        width: 238
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fa0d2058137c920800000000000000
+      internalID: 3010429323268108124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_18
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 26
+        width: 227
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810653422a5d18530800000000000000
+      internalID: 3855597648374751256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hydralisco_Melee_19
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 26
+        width: 217
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2851a0912165460800000000000000
+      internalID: 7229986150542574308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hydralisco_Melee_0: -6996145095795598241
+      Hydralisco_Melee_1: -3729952214891854994
+      Hydralisco_Melee_10: 5862497049932461054
+      Hydralisco_Melee_11: 8597962006509197855
+      Hydralisco_Melee_12: 1309770975139813059
+      Hydralisco_Melee_13: -877739747644519729
+      Hydralisco_Melee_14: -4028144528740200817
+      Hydralisco_Melee_15: -5883407598728901042
+      Hydralisco_Melee_16: -8169872445154768603
+      Hydralisco_Melee_17: 3010429323268108124
+      Hydralisco_Melee_18: 3855597648374751256
+      Hydralisco_Melee_19: 7229986150542574308
+      Hydralisco_Melee_2: 1433430639052808111
+      Hydralisco_Melee_3: 3825654423952028430
+      Hydralisco_Melee_4: -7158234580021575382
+      Hydralisco_Melee_5: -3118807070436803992
+      Hydralisco_Melee_6: 5500403661065827141
+      Hydralisco_Melee_7: -3081993527221037282
+      Hydralisco_Melee_8: -788375758904621641
+      Hydralisco_Melee_9: 4286252960904283056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
